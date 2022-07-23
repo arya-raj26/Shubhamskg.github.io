@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>PORTFOLIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<div class="inner">
+					<span class="image "><img src="images/pic.jpg" alt="" width="100" height="150"/></span>
+					<h1>Hi, I'm <strong>SHUBHAM KUMAR</strong>, currently a Student<br />
+					of  <a href="https://www.iitism.ac.in/iitismnew/">IIT DHANBAD</a>.</h1>
+					<p>WEB DEVELOPER AND SOFTWARE PROGRAMMER<br />
+					Extremely motivated to constantly develop my skills and grow professionally.</p>
+					<ul class="actions special">
+						<li><a href="https://drive.google.com/file/d/1ISQuJp_X0rWT6BuVheIhw2bXxonJHwh_/view?usp=sharing" class="button scrolly">RESUME</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="main style1">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Shubham Kumar<br/>
+								2024 Passout Batch ·19JE0796<br/>
+								7th Semester, M.Tech (Integrated)<br/>
+								Mathematics & Computing, Department of Engineering<br/>
+								Indian Institute of Technology Indian School of Mines Dhanbad<br /></h2>
+							</header>
+							<p>Dynamic and creative software developer with experience in producing code for different type of projects. Eager to work for Software Companies. Professional coding skills, creative working style and high-volume dedication.</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="main style2">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<ul class="major-icons">
+								<li><span class="icon solid style1 major fa-code"></span></li>
+								<li><span class="icon solid style2 major fa-bolt"></span></li>
+								<li><span class="icon solid style3 major fa-camera-retro"></span></li>
+								<li><span class="icon solid style4 major fa-cog"></span></li>
+								<li><span class="icon solid style5 major fa-desktop"></span></li>
+								<li><span class="icon solid style6 major fa-calendar"></span></li>
+							</ul>
+						</div>
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Skills<br /></h2>
+							</header>
+							<p>Technicals skills that i have acquired over the course of time. </p>
+							<p>Web Developers</p>
+							<p>C++ Language</p>
+							<p>Machine Learning</p>
+							<p>Database Management</p>
+							<p>Mathematics</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Three -->
+			<section id="three" class="main style1 special">
+				<div class="container">
+					<header class="major">
+						<h2>Projects</h2>
+					</header>
+					<p>I have worked on various projects in different domains you can find them here:</p>
+					<div class="row gtr-150">
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="images/student.png" alt="" /></span>
+							<h3>Student Data Management in C++</h3>
+							<p>Databases are being used in every aspect of our lives right now. Trillions of bytes of data are being stored in servers around the world. </p>
+							<ul class="actions special">
+								<li><a href="https://www.geeksforgeeks.org/student-data-management-c/" class="button">More</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="images/collegeconnect.jpg" alt="" width="100" height="250"/><//></span>
+							<h3>College Connect</h3>
+							<p>College Connect is platform where everyone can share their pics or any other stuffs anonymously. Either it’s a pdf file, images or a status. We are on a mission to make people more open and share their knowledge with everyone. </p>
+							<ul class="actions special">
+								<li><a href="https://www.geeksforgeeks.org/project-idea-college-connect/" class="button">More</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="images/hand.jpeg" alt="" /></span>
+							<h3>Dynamic Hand Gesture Recognition using neural network</h3>
+							<p>Hand gesture recognition system is used for interfacing between computer and human using hand gesture.</p>
+							<ul class="actions special">
+								<li><a href="https://www.geeksforgeeks.org/project-idea-dynamic-hand-gesture-recognition-using-neural-network/" class="button">More</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Four -->
+			<section id="four" class="main style2 special">
+				<div class="container">
+					<header class="major">
+						<h2>Experience and Acheivement</h2>
+					</header>
+					<p>I have professional experience as Web Developer & Software Programmer. Below a list of experience where i got to learn, show and use my technical progress.</p>
+					<ul class="actions special">
+						<li><a href="#" class="button wide primary">Experience</a></li>
+						<li><a href="#" class="button wide">Acheivement</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/Shubham190796" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/profile.php?id=100026458371142" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.instagram.com/shubhamkumar1704/?hl=en" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://github.com/Shubhamskg" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="https://mail.google.com/mail/u/0/#inbox" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; sk</li><li>Design: <a href="http://html5up.net">Shubham</a></li>
+				</ul>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
